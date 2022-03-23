@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital@1&family=Cinzel+Decorative&family=Hubballi&family=Merienda+One&family=Montserrat:wght@100;200;300;400;500;700&family=Oooh+Baby&family=Overpass:ital,wght@1,100&family=Padauk&family=Sacramento&family=Satisfy&family=Ubuntu&family=Volkhov:ital,wght@1,700&display=swap');
+
+
+
+h1 {
+    color: hsl(0, 100%, 9%);
+    font-size: 7rem;
+    font-weight: 400;
+    font-family: 'Oooh Baby', cursive;
+    padding-top: 250px;
+    padding-left: 100px;
+}
+
+body {
+    font-family: "Montserrat-Light";
+    color: #291400d9;
+   background-color:hsl(127, 7%, 47%);;
+}
+
+h2 {
+    color: hsl(0, 100%, 9%);
+    font-size: 2rem;
+    padding-left: 100px;
+}
+
+#footer{
+    color: hsl(0, 100%, 9%);
+    text-align: center;
+}
